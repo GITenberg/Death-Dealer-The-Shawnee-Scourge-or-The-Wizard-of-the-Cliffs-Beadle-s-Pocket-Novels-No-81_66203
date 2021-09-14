@@ -1,11 +1,16 @@
 _repo: Death-Dealer-The-Shawnee-Scourge-or-The-Wizard-of-the-Cliffs-Beadle-s-Pocket-Novels-No-81_66203
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66203-h/images/cover.jpg
 creator:
   author:
     agent_name: Meserve, Arthur L.
     gutenberg_agent_id: '53681'
     url: http://www.gutenberg.org/2009/agents/53681
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66203#Death-Dealer-The-Shawnee-Scourge-or-The-Wizard-of-the-Cliffs-Beadle-s-Pocket-Novels-No-81
 gutenberg_issued: '2021-09-02'
 identifiers:
   gutenberg: '66203'
